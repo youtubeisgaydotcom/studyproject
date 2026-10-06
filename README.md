@@ -1,6 +1,6 @@
-# SchoolProject for Minecraft
+# StudyProject
 
-A Mineflayer bot configured for SchoolProject
+A Mineflayer bot configured for PikaNetwork.
 
 ## Installation and startup
 
@@ -16,8 +16,10 @@ Configure `settings.json`, then start the bot:
 node bot.js
 ```
 
-The `schoolproject` plugin is installed from
-[youtubeisgaydotcom/schoolproject](https://github.com/youtubeisgaydotcom/schoolproject).
+The `schoolproject` dependency is the separate Mineflayer plugin from
+[youtubeisgaydotcom/schoolproject](https://github.com/youtubeisgaydotcom/schoolproject);
+this bot project is hosted at
+[youtubeisgaydotcom/studyproject](https://github.com/youtubeisgaydotcom/studyproject).
 
 ## Configuration
 
