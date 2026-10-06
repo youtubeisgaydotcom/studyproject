@@ -1,4 +1,4 @@
-# Autogrinding Bot
+# SchoolProject for Minecraft
 
 A Mineflayer bot configured for SchoolProject
 
