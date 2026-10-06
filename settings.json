@@ -1,0 +1,43 @@
+{
+  "bot-account": {
+    "username": "Username",  // Your bot's username
+    "type": "microsoft" // "mojang" or "microsoft"
+  },
+
+  "server": {
+    "ip": "top.pika.host", // Server IP address
+    "port": 25565, // Server port (default is 25565)
+    "version": "1.12.2", // Minecraft version (e.g., "1.12.2", "1.16.5", "1.17.1", etc.)
+    "cracked-login-password": "" // If the server is cracked, you can set a password here. Leave it empty if not needed.
+  },
+
+  "position": { // not in use
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-fix-hand": true,
+    "auto-fix-hand-delay": 51, // Delay in seconds
+    "auto-feed": true,
+    "auto-feed-delay": 30, // Delay in seconds
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60, // Delay in seconds
+
+      "messages": [
+        "I'm a regular player ",
+        "My owner is a regular player ",
+        "I want be alone "
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": false,
+    "auto-reconnect-delay": 20000
+  }
+}
